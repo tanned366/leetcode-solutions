@@ -1,5 +1,21 @@
 //Moore's ALgorithm
-
+class Solution {
+public:
+    int majorityElement(vector<int>& nums) {
+        int freq = 0, ans = 0;
+        for(int i=0; i<nums.size(); i++) {
+            if(freq == 0) {
+                ans = nums[i];
+            }
+            if(ans == nums[i]) {
+                freq++;
+            } else {
+                freq--;
+            }
+        }
+        return ans;
+    }
+};
 
 // Optimize (sortimg)
 class Solution {
@@ -32,9 +48,13 @@ public:
         for(int i=0; i<n; i++) {
             int count = 0;
             for(int j=0; j<n; j++) {
-                if(nums[i] == nums[j]) count++;
+                if(nums[i] == nums[j]) {
+                    count++;
+                }
             }
-            if(count > (n/2)) return nums[i];
+            if(count > (n/2)) {
+                return nums[i];
+            }
         }
         return -1;
     }
