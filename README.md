@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/tanned366/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0033-search-in-rotated-sorted-array](https://github.com/tanned366/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/tanned366/leetcode-solutions/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/tanned366/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0645-set-mismatch](https://github.com/tanned366/leetcode-solutions/tree/master/0645-set-mismatch) |
@@ -48,5 +49,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/tanned366/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0792-binary-search](https://github.com/tanned366/leetcode-solutions/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
