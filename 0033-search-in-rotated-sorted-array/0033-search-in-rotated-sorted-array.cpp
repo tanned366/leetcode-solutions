@@ -22,3 +22,9 @@ public:
     return -1;
     }
 };
+
+int search(vector<int>& nums, int target) {
+    for(int i=0; i<num.size(); i++) {
+        if(nums[i] == target) return i;
+    }
+}
