@@ -1,6 +1,6 @@
 class Solution {
 public:
-    bool searchMatrix(vector<vector<int>>& matrix, int target) {
+    bool searchMatrix(vector<vector<int>>& matrix, int target) {    //Staircase Search
         if(matrix.empty() || matrix[0].empty()) {
             return false;
         }
