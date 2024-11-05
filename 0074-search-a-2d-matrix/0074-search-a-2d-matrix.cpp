@@ -9,9 +9,9 @@ public:
             if (matrix[i][j] == target) {
                 return true;
             } else if (matrix[i][j] > target) {
-                j--; // left(col--)
+                j--;
             } else {
-                i++; // down(row++)
+                i++;
             }
         }
         return false;
