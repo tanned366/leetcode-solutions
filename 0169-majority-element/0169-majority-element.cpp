@@ -40,7 +40,7 @@ public:
     }
 };
 
-// Brute-Forece Approach
+// Brute-Force Approach
 class Solution {
 public:
     int majorityElement(vector<int>& nums) {
