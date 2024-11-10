@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/tanned366/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/tanned366/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/tanned366/leetcode-solutions/tree/master/0344-reverse-string) |
+| [0443-string-compression](https://github.com/tanned366/leetcode-solutions/tree/master/0443-string-compression) |
 ## Greedy
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/tanned366/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/tanned366/leetcode-solutions/tree/master/0344-reverse-string) |
+| [0443-string-compression](https://github.com/tanned366/leetcode-solutions/tree/master/0443-string-compression) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/tanned366/leetcode-solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Stack
 |  |
