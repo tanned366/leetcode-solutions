@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/tanned366/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0792-binary-search](https://github.com/tanned366/leetcode-solutions/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/tanned366/leetcode-solutions/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0898-transpose-matrix](https://github.com/tanned366/leetcode-solutions/tree/master/0898-transpose-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -94,12 +95,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0898-transpose-matrix](https://github.com/tanned366/leetcode-solutions/tree/master/0898-transpose-matrix) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/tanned366/leetcode-solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Matrix
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/tanned366/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/tanned366/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0898-transpose-matrix](https://github.com/tanned366/leetcode-solutions/tree/master/0898-transpose-matrix) |
 ## Math
 |  |
 | ------- |
