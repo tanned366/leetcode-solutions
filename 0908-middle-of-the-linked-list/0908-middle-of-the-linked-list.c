@@ -13,6 +13,7 @@ struct ListNode* middleNode(struct ListNode* head) {
         pos++;
     }
     temp=head;
-    for(int i=0; i<pos/2; i++) temp = temp->next;
+    for(int i=0; i<pos/2; i++)
+        temp = temp->next;
     return temp;
 }
