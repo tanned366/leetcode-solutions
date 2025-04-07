@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/tanned366/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/tanned366/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/tanned366/leetcode-solutions/tree/master/0443-string-compression) |
+| [0908-middle-of-the-linked-list](https://github.com/tanned366/leetcode-solutions/tree/master/0908-middle-of-the-linked-list) |
 ## Greedy
 |  |
 | ------- |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/tanned366/leetcode-solutions/tree/master/0206-reverse-linked-list) |
+| [0908-middle-of-the-linked-list](https://github.com/tanned366/leetcode-solutions/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
