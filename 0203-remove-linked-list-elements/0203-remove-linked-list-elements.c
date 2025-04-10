@@ -6,15 +6,14 @@
  * };
  */
 struct ListNode* removeElements(struct ListNode* head, int val) {
-    while (head != NULL && head->val == val){
-        struct ListNode* todelete = head;
-        head=head->next;
-    }
     struct ListNode *temp = head, *ptemp = NULL;
     while (temp != NULL) {
         if (temp->val == val) {
-            ptemp->next = temp->next;
-            temp = ptemp->next;
+            if (temp == head)
+                head = head->next;
+            else
+                ptemp->next = temp->next;
+            temp = temp->next;
         } else {
             ptemp = temp;
             temp = temp->next;
