@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/tanned366/leetcode-solutions/tree/master/0898-transpose-matrix) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/tanned366/leetcode-solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1603-running-sum-of-1d-array](https://github.com/tanned366/leetcode-solutions/tree/master/1603-running-sum-of-1d-array) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/tanned366/leetcode-solutions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 ## Hash Table
 |  |
 | ------- |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/tanned366/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/tanned366/leetcode-solutions/tree/master/0443-string-compression) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/tanned366/leetcode-solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/tanned366/leetcode-solutions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 ## Stack
 |  |
 | ------- |
