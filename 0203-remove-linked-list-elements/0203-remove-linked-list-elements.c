@@ -9,13 +9,11 @@ struct ListNode* removeElements(struct ListNode* head, int val) {
     while (head != NULL && head->val == val){
         struct ListNode* todelete = head;
         head=head->next;
-        free(todelete);
     }
     struct ListNode *temp = head, *ptemp = NULL;
     while (temp != NULL) {
         if (temp->val == val) {
             ptemp->next = temp->next;
-            free(temp);
             temp = ptemp->next;
         } else {
             ptemp = temp;
