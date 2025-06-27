@@ -9,7 +9,6 @@ public:
         }
         if (rev <= INT_MAX && rev >= INT_MIN)
             return rev;
-        else
-            return 0;
+        return 0;
     }
 };
