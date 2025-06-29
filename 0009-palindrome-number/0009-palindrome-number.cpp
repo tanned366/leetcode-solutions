@@ -1,14 +1,22 @@
 class Solution {
 public:
     bool isPalindrome(int x) {
-        if(x<0) return false;
-        long  int rev=0;
-        long  int org = x;
-        while(x!=0){
-            long  int dig = x%10;
-            rev = rev*10 + dig;
-            x /= 10;
+        if (x >= INT_MAX || x <= INT_MIN)
+            return 0;
+        if (x < 0)
+            return false;
+        int num = 0;
+        int n = x;
+        while (n != 0) {
+            int dig = n % 10;
+            if (num > (INT_MAX - dig) / 10) // rearrange num*10+dig doen't overflow
+                return 0;
+            num = num * 10 + dig;
+            n = n / 10;
         }
-        return rev==org;    
+        if (num == x)
+            return true;
+        else
+            return false;
     }
 };
