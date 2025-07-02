@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/tanned366/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/tanned366/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/tanned366/leetcode-solutions/tree/master/0443-string-compression) |
+| [1205-defanging-an-ip-address](https://github.com/tanned366/leetcode-solutions/tree/master/1205-defanging-an-ip-address) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/tanned366/leetcode-solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/tanned366/leetcode-solutions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 ## Stack
