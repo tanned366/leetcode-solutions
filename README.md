@@ -173,5 +173,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/tanned366/leetcode-solutions/tree/master/0175-combine-two-tables) |
+| [1179-game-play-analysis-i](https://github.com/tanned366/leetcode-solutions/tree/master/1179-game-play-analysis-i) |
 | [1908-recyclable-and-low-fat-products](https://github.com/tanned366/leetcode-solutions/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
