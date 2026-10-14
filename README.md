@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/tanned366/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/tanned366/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/tanned366/leetcode-solutions/tree/master/0443-string-compression) |
+| [0633-sum-of-square-numbers](https://github.com/tanned366/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [0908-middle-of-the-linked-list](https://github.com/tanned366/leetcode-solutions/tree/master/0908-middle-of-the-linked-list) |
 ## Greedy
 |  |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/tanned366/leetcode-solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/tanned366/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/tanned366/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0633-sum-of-square-numbers](https://github.com/tanned366/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [0792-binary-search](https://github.com/tanned366/leetcode-solutions/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/tanned366/leetcode-solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 ## String
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/tanned366/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/tanned366/leetcode-solutions/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/tanned366/leetcode-solutions/tree/master/0412-fizz-buzz) |
+| [0633-sum-of-square-numbers](https://github.com/tanned366/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [1013-fibonacci-number](https://github.com/tanned366/leetcode-solutions/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/tanned366/leetcode-solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Linked List
