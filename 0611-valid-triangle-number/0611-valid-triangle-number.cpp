@@ -6,15 +6,17 @@ public:
         int n = nums.size();
         int count = 0;
 
-        for (int i = 0; i < n - 2; i++) {
-            for (int j = i + 1; j < n - 1; j++) {
-                auto it = lower_bound(
-                    nums.begin() + j + 1,
-                    nums.end(),
-                    nums[i] + nums[j]
-                );
+        for (int k = n - 1; k >= 2; k--) {
+            int i = 0;
+            int j = k - 1;
 
-                count += it - (nums.begin() + j + 1);
+            while (i < j) {
+                if (nums[i] + nums[j] > nums[k]) {
+                    count += j - i;
+                    j--;
+                } else {
+                    i++;
+                }
             }
         }
 
