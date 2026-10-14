@@ -2,23 +2,21 @@
 class Solution {
 public:
     bool judgeSquareSum(int c) {
-        long long a = 0;
-        long long b = sqrt(c);
+        for (long long p = 2; p * p <= c; p++) {
+            if (c % p == 0) {
+                int count = 0;
 
-        while (a <= b) {
-            long long sum = a * a + b * b;
+                while (c % p == 0) {
+                    c /= p;
+                    count++;
+                }
 
-            if (sum == c) {
-                return true;
-            }
-            else if (sum < c) {
-                a++;
-            }
-            else {
-                b--;
+                if (p % 4 == 3 && count % 2 != 0) {
+                    return false;
+                }
             }
         }
 
-        return false;
+        return c % 4 != 3;
     }
 };
