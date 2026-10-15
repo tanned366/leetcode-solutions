@@ -3,30 +3,19 @@ class Solution {
 public:
     int minimumDeletions(vector<int>& nums) {
         int n = nums.size();
+        int mn = 0, mx = 0;
 
-        int minIndex = 0;
-        int maxIndex = 0;
-
-        // Find the indices of minimum and maximum
         for (int i = 1; i < n; i++) {
-            if (nums[i] < nums[minIndex]) {
-                minIndex = i;
-            }
-
-            if (nums[i] > nums[maxIndex]) {
-                maxIndex = i;
-            }
+            if (nums[i] < nums[mn]) mn = i;
+            if (nums[i] > nums[mx]) mx = i;
         }
 
-        // Put the indices in increasing order
-        int left = min(minIndex, maxIndex);
-        int right = max(minIndex, maxIndex);
+        if (mn > mx) swap(mn, mx);
 
-        // Three possible strategies
-        int front = right + 1;
-        int back = n - left;
-        int both = (left + 1) + (n - right);
-
-        return min({front, back, both});
+        return min({
+            mx + 1,
+            n - mn,
+            mn + 1 + n - mx
+        });
     }
 };
