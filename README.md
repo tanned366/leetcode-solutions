@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/tanned366/leetcode-solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/tanned366/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/tanned366/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0456-132-pattern](https://github.com/tanned366/leetcode-solutions/tree/master/0456-132-pattern) |
 | [0611-valid-triangle-number](https://github.com/tanned366/leetcode-solutions/tree/master/0611-valid-triangle-number) |
 | [0645-set-mismatch](https://github.com/tanned366/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0792-binary-search](https://github.com/tanned366/leetcode-solutions/tree/master/0792-binary-search) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/tanned366/leetcode-solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/tanned366/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/tanned366/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0456-132-pattern](https://github.com/tanned366/leetcode-solutions/tree/master/0456-132-pattern) |
 | [0611-valid-triangle-number](https://github.com/tanned366/leetcode-solutions/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/tanned366/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [0792-binary-search](https://github.com/tanned366/leetcode-solutions/tree/master/0792-binary-search) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/tanned366/leetcode-solutions/tree/master/0456-132-pattern) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/tanned366/leetcode-solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Simulation
 |  |
@@ -196,4 +199,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0175-combine-two-tables](https://github.com/tanned366/leetcode-solutions/tree/master/0175-combine-two-tables) |
 | [1179-game-play-analysis-i](https://github.com/tanned366/leetcode-solutions/tree/master/1179-game-play-analysis-i) |
 | [1908-recyclable-and-low-fat-products](https://github.com/tanned366/leetcode-solutions/tree/master/1908-recyclable-and-low-fat-products) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/tanned366/leetcode-solutions/tree/master/0456-132-pattern) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/tanned366/leetcode-solutions/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
