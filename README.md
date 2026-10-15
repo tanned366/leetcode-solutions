@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tanned366/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/tanned366/leetcode-solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/tanned366/leetcode-solutions/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/tanned366/leetcode-solutions/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/tanned366/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/tanned366/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/tanned366/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/tanned366/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/tanned366/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/tanned366/leetcode-solutions/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/tanned366/leetcode-solutions/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/tanned366/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/tanned366/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/tanned366/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/tanned366/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0179-largest-number](https://github.com/tanned366/leetcode-solutions/tree/master/0179-largest-number) |
 | [0611-valid-triangle-number](https://github.com/tanned366/leetcode-solutions/tree/master/0611-valid-triangle-number) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/tanned366/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Prefix Sum
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tanned366/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/tanned366/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/tanned366/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0179-largest-number](https://github.com/tanned366/leetcode-solutions/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/tanned366/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/tanned366/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/tanned366/leetcode-solutions/tree/master/0412-fizz-buzz) |
