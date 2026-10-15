@@ -1,26 +1,22 @@
 class Solution {
 public:
     string largestNumber(vector<int>& nums) {
-        vector<string> arr;
+        sort(nums.begin(), nums.end(),
+             [](int a, int b) {
+                 string x = to_string(a);
+                 string y = to_string(b);
 
-        for (int num : nums) {
-            arr.push_back(to_string(num));
-        }
-
-        sort(arr.begin(), arr.end(),
-             [](string a, string b) {
-                 return a + b > b + a;
+                 return x + y > y + x;
              });
 
-        // If every number is zero, return only one zero.
-        if (arr[0] == "0") {
+        if (nums[0] == 0) {
             return "0";
         }
 
         string ans = "";
 
-        for (string s : arr) {
-            ans += s;
+        for (int num : nums) {
+            ans += to_string(num);
         }
 
         return ans;
