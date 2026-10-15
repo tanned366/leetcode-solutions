@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/tanned366/leetcode-solutions/tree/master/0898-transpose-matrix) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/tanned366/leetcode-solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1603-running-sum-of-1d-array](https://github.com/tanned366/leetcode-solutions/tree/master/1603-running-sum-of-1d-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/tanned366/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/tanned366/leetcode-solutions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 ## Hash Table
 |  |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/tanned366/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0611-valid-triangle-number](https://github.com/tanned366/leetcode-solutions/tree/master/0611-valid-triangle-number) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/tanned366/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Prefix Sum
 |  |
 | ------- |
