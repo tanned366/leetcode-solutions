@@ -4,13 +4,14 @@ public:
     int consecutiveNumbersSum(int n) {
         int count = 0;
 
-        for (long long k = 1;
-             k * (k + 1) / 2 <= n;
-             k++) {
+        for (long long k = 1; k <= n; k++) {
+            long long numerator = 2LL * n - k * (k - 1);
 
-            long long remaining = n - k * (k - 1) / 2;
+            if (numerator <= 0) {
+                break;
+            }
 
-            if (remaining % k == 0) {
+            if (numerator % (2 * k) == 0) {
                 count++;
             }
         }
