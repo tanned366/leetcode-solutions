@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tanned366/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/tanned366/leetcode-solutions/tree/master/0058-length-of-last-word) |
+| [0072-edit-distance](https://github.com/tanned366/leetcode-solutions/tree/master/0072-edit-distance) |
 | [0151-reverse-words-in-a-string](https://github.com/tanned366/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/tanned366/leetcode-solutions/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/tanned366/leetcode-solutions/tree/master/0242-valid-anagram) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/tanned366/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0072-edit-distance](https://github.com/tanned366/leetcode-solutions/tree/master/0072-edit-distance) |
 | [0120-triangle](https://github.com/tanned366/leetcode-solutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tanned366/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1013-fibonacci-number](https://github.com/tanned366/leetcode-solutions/tree/master/1013-fibonacci-number) |
