@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/tanned366/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/tanned366/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0456-132-pattern](https://github.com/tanned366/leetcode-solutions/tree/master/0456-132-pattern) |
+| [0502-ipo](https://github.com/tanned366/leetcode-solutions/tree/master/0502-ipo) |
 | [0611-valid-triangle-number](https://github.com/tanned366/leetcode-solutions/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/tanned366/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/tanned366/leetcode-solutions/tree/master/0645-set-mismatch) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/tanned366/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/tanned366/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/tanned366/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0502-ipo](https://github.com/tanned366/leetcode-solutions/tree/master/0502-ipo) |
 | [0611-valid-triangle-number](https://github.com/tanned366/leetcode-solutions/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/tanned366/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/tanned366/leetcode-solutions/tree/master/0645-set-mismatch) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/tanned366/leetcode-solutions/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/tanned366/leetcode-solutions/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/tanned366/leetcode-solutions/tree/master/0179-largest-number) |
+| [0502-ipo](https://github.com/tanned366/leetcode-solutions/tree/master/0502-ipo) |
 | [0611-valid-triangle-number](https://github.com/tanned366/leetcode-solutions/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/tanned366/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/tanned366/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0502-ipo](https://github.com/tanned366/leetcode-solutions/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/tanned366/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0912-sort-an-array](https://github.com/tanned366/leetcode-solutions/tree/master/0912-sort-an-array) |
 ## Merge Sort
