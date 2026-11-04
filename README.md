@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/tanned366/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/tanned366/leetcode-solutions/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/tanned366/leetcode-solutions/tree/master/0010-regular-expression-matching) |
+| [0020-valid-parentheses](https://github.com/tanned366/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tanned366/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/tanned366/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/tanned366/leetcode-solutions/tree/master/0058-length-of-last-word) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/tanned366/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0456-132-pattern](https://github.com/tanned366/leetcode-solutions/tree/master/0456-132-pattern) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/tanned366/leetcode-solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Simulation
@@ -267,4 +269,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/tanned366/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/tanned366/leetcode-solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
