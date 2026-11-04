@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/tanned366/leetcode-solutions/tree/master/0010-regular-expression-matching) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tanned366/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/tanned366/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/tanned366/leetcode-solutions/tree/master/0072-edit-distance) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/tanned366/leetcode-solutions/tree/master/0010-regular-expression-matching) |
 | [0050-powx-n](https://github.com/tanned366/leetcode-solutions/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/tanned366/leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/tanned366/leetcode-solutions/tree/master/0206-reverse-linked-list) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/tanned366/leetcode-solutions/tree/master/0010-regular-expression-matching) |
 | [0053-maximum-subarray](https://github.com/tanned366/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0072-edit-distance](https://github.com/tanned366/leetcode-solutions/tree/master/0072-edit-distance) |
 | [0120-triangle](https://github.com/tanned366/leetcode-solutions/tree/master/0120-triangle) |
